@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution](https://github.com/muakone/order-summary.git)
-- Live Site URL: [Git hub page](https://your-live-site-url.com)
+- Live Site URL: [Git hub page](https://muakone.github.io/order-summary/)
 
 ## My process
 
@@ -43,7 +43,7 @@ Users should be able to:
 
 ## Author
 
-- Website - [Muak1](https://www.your-site.com)
+- Website - [Muak1](https://muakone.github.io/order-summary/)
 - Frontend Mentor - [@muak](https://www.frontendmentor.io/profile/muak)
 - Twitter - [@Muhiz_akanni](https://www.twitter.com/@Muhiz_akanni)
 
